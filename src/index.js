@@ -1,6 +1,5 @@
 import component from "./component";
 
-var myVar = 10;
-console.log ("hello world")
+var myVagr = 10;
 
 document.body.appendChild(component());
