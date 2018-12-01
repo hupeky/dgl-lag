@@ -1,4 +1,11 @@
+
+@font-face {
+  font-family: "aisha";
+  src: url("../fonts/aisha.ttf") format("truetype");
+  }
+  
 html {
+  font-family: Roboto, aisha;
   background-image: url("../imgs/bg.png");
   margin: 150px;
 }
