@@ -1,10 +1,6 @@
 
 import classes from "./styles/style.scss";
 import svg from "./imgs/svg/icon.svg";
-import svgInline from "./imgs/svg/inline/icon.svg";
-import png from "./imgs/bg.png";
- 
-console.log (svg)
 
 export default () => {
   const element = document.createElement("div");
